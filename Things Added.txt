@@ -1,0 +1,28 @@
+0
+1. Cursor Movement Handled.
+2. Enter Key at Anywhere Handled.
+3. BackSpace Key Handled.
+4. Delete Key Handled.
+5. Ctrl + BackSpace Key Handled.
+6. Ctrl + Delete Key Handled.
+7. Saving (Ctrl + S, Ctrl + S) and Printing Seperated.
+8. Merging Two Lines.
+9. Ctrl + Left Arrow & Ctrl + Right Arrow Functions.
+10. Removed Neccesity of Printing NOLs in the start of File.
+11. Added TOUPPER Function (CTRL + U).
+12. Added TOLOWER Function (CTRL + O).
+13. Exit Functionality (CTRL + X). Confirms for Saving (CTRL + S) or Without Saving (CTRL + X).
+14. Shows Addresses (Ctrl + B).
+15. Find Function For Word, Substring, Sentence. Case Sensitive Condition.
+    Assigns Cursor Position to the next word found Starting Index.
+    Shows on Which Count the Cursor is on And Total Count.
+    Replace, Prefix, Suffix (Postfix).
+    Added Option To Toogle Case Sensitive.
+    Next (Right Arrow), Previous (Left Arrow), Next All (Ctrl + Right Arrow), Previous All (Ctrl + Left Arrow)
+16. Added Opening Multiple Documents (Ctrl + Alt + O).
+17. Added Transitioning for Multiple Documents.
+18. Showing Stats of Document Shows Special Character Count, Number of Sentences, WordCount, AVG W/L, Smallest W/L, Largest W/L
+19. Merging MultipleDocument.
+20. Passwords.
+21. Encoding Password And Document Differently.
+22. Creating a New File (Ctrl + Alt + C).
